@@ -56,10 +56,10 @@ All questions about submissions should be emailed to TBD
 
 
 ### Organizers ###
-- [Nikolaos Vasiloglou](https://www.linkedin.com/in/vasiloglou) (relationalAI)
+- [Nikolaos Vasiloglou](https://www.linkedin.com/in/vasiloglou) (RelationalAI)
 - [Maximilian Schleich](https://mjschleich.github.io/) 	(University of Washington)
 - [Nantia Makrynioti](http://nantiamakrynioti.com/)	(Centrum Wiskunde & Informatica)
-- [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/)  (Michigan State University)  		
+- [Parisa Kordjamshidi](https://www.cse.msu.edu/~kordjams/)  (Michigan State University)
 - [Kirk Pruhs](https://people.cs.pitt.edu/~kirk/)	(University of Pitsburg)
 - [Zenna Tavares](http://www.zenna.org/) (MIT)
 
@@ -70,4 +70,9 @@ All questions about submissions should be emailed to TBD
 - https://sites.google.com/view/aidb2020
 
 ## Sponsors ##
-- [relationalAI](https://www.relational.ai/)
+- [RelationalAI](https://www.relational.ai/)
+![image tooltip here](/assets/relationalai_logo.png)
+
+- [Snorkel](https://snorkel.ai)
+![image tooltip here](/assets/Snorkel_Logo.png)
+

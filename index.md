@@ -65,9 +65,9 @@ All questions about submissions should be emailed to TBD
 
 ## Links to similar workshops ##
 
-- https://kr2ml.github.io
-- http://deem-workshop.org
-- https://sites.google.com/view/aidb2020
+- [KR2ML](https://kr2ml.github.io)
+- [DEEM@SIGMOD](http://deem-workshop.org)
+- [AIDB@VLDB](https://sites.google.com/view/aidb2020)
 
 ## Sponsors ##
 - [RelationalAI](https://www.relational.ai/)

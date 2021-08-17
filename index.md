@@ -46,7 +46,7 @@ Acceptance notification: Oct 22, 2021 EOD
 
 Mandatory SlidesLive upload for speaker videos: Nov 08, 2021
 
-Workshop day: TBD
+Workshop day: Dec 13, 2021
 
 **Submission Site**
 
@@ -75,4 +75,3 @@ All questions about submissions should be emailed to TBD
 
 - [Snorkel](https://snorkel.ai)
 ![image tooltip here](/assets/Snorkel_Logo.png)
-

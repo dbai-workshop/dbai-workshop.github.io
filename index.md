@@ -50,9 +50,9 @@ Workshop day: Dec 13, 2021
 
 **Submission Site**
 
-Submission link: TBD
+Submission link: [https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DBAI](https://openreview.net/group?id=NeurIPS.cc/2021/Workshop/DBAI)
 
-All questions about submissions should be emailed to TBD
+All questions about submissions should be emailed to [this address](mailto:dubai2021-organizers@googlegroups.com).
 
 
 ### Organizers ###

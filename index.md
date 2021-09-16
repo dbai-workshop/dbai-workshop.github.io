@@ -31,7 +31,7 @@ Relational data represents the vast majority of data present in the enterprise w
 - Impact of Data Quality and Data Preprocessing on the Fairness of ML Predictions
 
 **Submission:**
-Submissions can be short papers (4 pages) or long papers (up to 8 pages, plus unlimited references). Authors are requested to prepare submissions following the NeurIPS proceedings format. AI&DB is a single-blind workshop, authors must include their names and affiliations on the manuscript cover page.
+Submissions can be short papers (4 pages) or long papers (up to 8 pages, plus unlimited references). Authors are requested to prepare submissions following the NeurIPS proceedings format. DBAI is a single-blind workshop, authors must include their names and affiliations on the manuscript cover page.
 Submission Website: To be announce upon acceptance of the workshop
 Inclusion and Diversity in Writing: http://2021.sigmod.org/calls_papers_inclusion_and_diversity.shtml
 

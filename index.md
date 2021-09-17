@@ -36,11 +36,11 @@ Submission Website: To be announce upon acceptance of the workshop
 Inclusion and Diversity in Writing: http://2021.sigmod.org/calls_papers_inclusion_and_diversity.shtml
 
 **Conflicts:**
-Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference wiil not be accepted in the workshop, including as part of an invited talk..
+Workshops are not a venue for work that has been previously published in other conferences on machine learning or related fields. Work that is presented at the main NeurIPS conference will not be accepted in the workshop, including as part of an invited talk..
 
 **Important Dates**
 
-Paper submission deadline: Sep 17, 2021, 11:59 PM (AoE, UTC-12)
+Paper submission deadline: ~~Sep 17, 2021, 11:59 PM (AoE, UTC-12)~~ **Extended Deadline: Sep 24, 2021, 11:59 PM (AoE, UTC-12)**
 
 Acceptance notification: Oct 22, 2021 EOD
 

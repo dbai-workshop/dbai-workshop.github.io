@@ -10,6 +10,25 @@ Relational data represents the vast majority of data present in the enterprise w
 - How does data programming connect to relational learning and can it be accelerated with the algorithmic primitives of relational databases?
 - The attention network has been interpreted and used as a mechanism for discovering and expressing relations. It has also been considered as a storage mechanism of knowledge in Large Language Models (Transformers). Are transformers equivalent to databases?
 
+## Invited talks ##
+
+- **Speaker:** [Dan Olteanu](https://www.ifi.uzh.ch/en/dast/people/Olteanu.html) (University of Zurich)
+
+    **Title:** TBA
+
+- **Speaker:** [Paroma Varma](https://www.paroma.xyz) (Snorkel AI)
+
+    **Title:** Programming Training Data with Snorkel
+
+    *Abstract:* One of the key bottlenecks in building machine learning systems is creating and managing the massive training datasets that today’s models learn from. In this talk, we will describe our work at [Snorkel AI](snorkel.ai) on labeling training data efficiently using our system, Snorkel, which allows users to programmatically label training data. Snorkel has been deployed by major technology companies like Google, Facebook and Intel, academic labs, and government agencies. Rather than hand-labeling training data, users write labeling functions which label data using heuristic strategies such as pattern matching, distant supervision, and other models. These labeling functions can have noisy, conflicting, and correlated outputs, which Snorkel models and combines into clean training labels. This allows training sets to be built in hours or days, rather than months or years.
+
+* **Speaker:** [Arun Kumar](https://cseweb.ucsd.edu/~arunkk/) (UC San Diego)
+
+    **Title:** The New DBfication of ML/AI
+
+    *Abstract:* The recent boom in ML/AI applications has brought into sharp focus the pressing need for tackling the concerns of scalability, usability, and manageability across the entire lifecycle of ML/AI applications. The ML/AI world has long studied the concerns of accuracy, automation, etc. from theoretical and algorithmic vantage points. But to truly democratize ML/AI, the vantage point of building and deploying practical systems is equally critical.
+
+    In this talk, I will make the case that it is high time to bridge the gap between the ML/AI world and a world that exemplifies successful democratization of data technology: databases. I will show how new bridges rooted in the principles, techniques, and tools of the database world are helping tackle the above pressing concerns and in turn, posing new research questions to the world of ML/AI. As case studies of such bridges, I will describe two lines of work from my group: query optimization for ML systems and benchmarking data preparation in AutoML platforms. I will conclude with my thoughts on community mechanisms to foster more such bridges between research worlds and between research and practice.
 
 ## Call for papers ##
 **Areas of particular interest for the workshop include (but are not limited to):**

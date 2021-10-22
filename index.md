@@ -59,10 +59,8 @@ Relational data represents the vast majority of data present in the enterprise w
 
 ## Tentative program ##
 
-(all times are in ET)
-
-|  | |
-|-------|--------|
+| Time (ET)  | Program |
+|:-------|:--------|
 | 8:50 - 9:00 | Welcome and introduction |
 | 9:00 - 9:45 |  Talk: Dan Olteanu |
 | 9:45 - 10:30 |  Talk: Paroma Varma |

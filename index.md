@@ -58,35 +58,25 @@ Relational data represents the vast majority of data present in the enterprise w
 * __Compressing (Multidimensional) Learned Bloom Filters.__ Angjela Davitkova, Damjan Gjurovski, Sebastian Michel.
 
 ## Tentative program ##
-    (all times are in ET)
 
-    8:50 - 9:00 Welcome and introduction
+(all times are in ET)
 
-    9:00 - 9:45 Invited Talk: Dan Olteanu
-
-    9:45 - 10:30 Invited Talk: Paroma Varma
-
-    10:30 - 11400 Break
-
-    11:00 - 11:45 Invited Talk: Arun Kumar
-
-    11:45 - 12:30 Invited Talk: Olga Papaemmanouil
-
-    12:30 - 13.30 Lunch
-
-    13:30 - 14:30 Presentation of contributed papers
-
-    14:30 - 15:00 Invited Talk: TBA
-
-    15:00 - 15:15 Break
-
-    15:15 - 15:30 Invited Talk: David Chiang
-
-    15:30 - 15:45 Invited Talk: Eriq Augustine
-
-    15:45 - 17:00 Panel
-
-    17:00 Closing Remarks
+|  | |
+|-------|--------|
+| 8:50 - 9:00 | Welcome and introduction |
+| 9:00 - 9:45 |  Talk: Dan Olteanu |
+| 9:45 - 10:30 |  Talk: Paroma Varma |
+| 10:30 - 11:00|  Break |
+| 11:00 - 11:45|   Talk: Arun Kumar |
+| 11:45 - 12:30|   Talk: Olga Papaemmanouil |
+| 12:30 - 13.30|  Lunch |
+| 13:30 - 14:30|  Presentation of contributed papers |
+| 14:30 - 15:00|   Talk: TBA |
+| 15:00 - 15:15|  Break |
+| 15:15 - 15:30|   Talk: David Chiang |
+| 15:30 - 15:45|   Talk: Eriq Augustine |
+| 15:45 - 17:00|  Panel |
+| 17:00 |  Closing Remarks |
 
 ## Call for papers ##
 **Areas of particular interest for the workshop include (but are not limited to):**

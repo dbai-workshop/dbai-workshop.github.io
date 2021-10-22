@@ -30,6 +30,64 @@ Relational data represents the vast majority of data present in the enterprise w
 
     In this talk, I will make the case that it is high time to bridge the gap between the ML/AI world and a world that exemplifies successful democratization of data technology: databases. I will show how new bridges rooted in the principles, techniques, and tools of the database world are helping tackle the above pressing concerns and in turn, posing new research questions to the world of ML/AI. As case studies of such bridges, I will describe two lines of work from my group: query optimization for ML systems and benchmarking data preparation in AutoML platforms. I will conclude with my thoughts on community mechanisms to foster more such bridges between research worlds and between research and practice.
 
+* **Speaker:** [Olga Papaemmanouil](https://www.brandeis.edu/facultyguide/person.html?emplid=7f4b0188301218e80167e3786d65cff18e144e5d) (Brandeis University)
+
+    **Title:** TBA
+
+
+* **Speaker:** [David Chiang](https://www3.nd.edu/~dchiang/) (University of Notre Dame)
+
+    **Title:** TBA
+
+* **Speaker:** [Eriq Augustine](https://www.linkedin.com/in/eriq-augustine-77153921/) (UC Santa Cruz)
+
+    **Title:** TBA
+
+
+## Accepted papers ##
+
+*  __DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning.__
+    Kai Li, Qi Zhang, Lei Yu, Hong Min.
+
+* __Numerical Reasoning over Legal Contracts via Relational Database.__ Jiani Huang, Ziyang Li, Ilias Fountalis, Mayur Naik.
+
+* __RASL: Relational Algebra in Scikit-Learn Pipelines.__ Kiran Kate, Chirag Sahni, Martin Hirzel, Avraham Shinnar, Thanh Lam Hoang.
+
+* __DP-KB: Data Programming with Knowledge Bases Improves Transformer Fine Tuning for Answer Sentence Selection.__ Nicolaas Paul Jedema, Thuy Vu, Thuy Vu, Manish Gupta, Alessandro Moschitti.
+
+* __Compressing (Multidimensional) Learned Bloom Filters.__ Angjela Davitkova, Damjan Gjurovski, Sebastian Michel.
+
+## Tentative program ##
+    (all times are in ET)
+
+    8:50 - 9:00 Welcome and introduction
+
+    9:00 - 9:45 Invited Talk: Dan Olteanu
+
+    9:45 - 10:30 Invited Talk: Paroma Varma
+
+    10:30 - 11400 Break
+
+    11:00 - 11:45 Invited Talk: Arun Kumar
+
+    11:45 - 12:30 Invited Talk: Olga Papaemmanouil
+
+    12:30 - 13.30 Lunch
+
+    13:30 - 14:30 Presentation of contributed papers
+
+    14:30 - 15:00 Invited Talk: TBA
+
+    15:00 - 15:15 Break
+
+    15:15 - 15:30 Invited Talk: David Chiang
+
+    15:30 - 15:45 Invited Talk: Eriq Augustine
+
+    15:45 - 17:00 Panel
+
+    17:00 Closing Remarks
+
 ## Call for papers ##
 **Areas of particular interest for the workshop include (but are not limited to):**
 - Data Management in Machine Learning Applications

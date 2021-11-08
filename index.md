@@ -14,7 +14,14 @@ Relational data represents the vast majority of data present in the enterprise w
 
 - **Speaker:** [Dan Olteanu](https://www.ifi.uzh.ch/en/dast/people/Olteanu.html) (University of Zurich)
 
-    **Title:** TBA
+    **Title:** Machine Learning through Database Glasses
+
+    *Abstract:* As we witness the data science revolution, each research community legitimately reflects on its relevance and place in this new landscape. The database research community has at least three reasons to feel empowered by this revolution. This has to do with the pervasiveness of relational data in data science, the widespread need for efficient data processing, and the new processing challenges posed by data science workloads beyond the classical database workloads. The first two aforementioned reasons are widely acknowledged as core to the community’s raison d’être. The third reason explains the longevity of relational database management systems success: Whenever a new promising data-centric technology surfaces, research is under way to show that it can be captured naturally by variations or extensions of the existing relational techniques.
+
+    In this talk, I will make the case for a first-principles approach to machine learning over relational databases that guided our recent work and can dramatically improve the runtime performance of machine learning.
+    This approach exploits the algebraic and combinatorial structure of relational data processing. It also relies on compilation for hybrid database and learning workloads and on computation sharing across aggregates in learning-specific batches.
+
+    This work is the outcome of extensive collaboration of the author with colleagues from RelationalAI (https://www.relational.ai), in particular Mahmoud Abo Khamis, Molham Aref, Hung Ngo, and XuanLong Nguyen, and from the FDB research project (https://fdbresearch.github.io/), in particular Ahmet Kara, Milos Nikolic, Maximilian Schleich, Amir Shaikhha, and Haozhe Zhang.
 
 - **Speaker:** [Paroma Varma](https://www.paroma.xyz) (Snorkel AI)
 
@@ -37,7 +44,13 @@ Relational data represents the vast majority of data present in the enterprise w
 
 * **Speaker:** [David Chiang](https://www3.nd.edu/~dchiang/) (University of Notre Dame)
 
-    **Title:** TBA
+    **Title:** Two Ways of Thinking about Weighted Relations
+
+    *Abstract:* I will talk about two ways of describing weighted or probabilistic relations:
+
+    First, mathematical notation for tensors with named axes, which removes the burden of keeping track of the order of axes and the purpose of each. It also makes it easy to extend operations on low-order tensors to higher order ones (e.g., to extend an operation on images to minibatches of images, or extend the attention mechanism to multiple attention heads). Our notation builds on ideas from many previous papers and software libraries, and we hope their adoption may result in clearer papers and less bug-prone implementations. 
+
+    Second, hyperedge replacement graph grammars for factor graphs, or factor graph grammars (FGGs) for short, generate sets of factor graphs and can describe a more general class of models than plate notation, dynamic graphical models, case-factor diagrams, and sum-product networks can. Moreover, inference can be done on FGGs without enumerating all the generated factor graphs. For finite variable domains (but possibly infinite sets of graphs), a generalization of variable elimination to FGGs allows exact and tractable inference in many situations.
 
 * **Speaker:** [Eriq Augustine](https://www.linkedin.com/in/eriq-augustine-77153921/) (UC Santa Cruz)
 

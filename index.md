@@ -48,13 +48,13 @@ Relational data represents the vast majority of data present in the enterprise w
 
     *Abstract:* I will talk about two ways of describing weighted or probabilistic relations:
 
-    First, mathematical notation for tensors with named axes, which removes the burden of keeping track of the order of axes and the purpose of each. It also makes it easy to extend operations on low-order tensors to higher order ones (e.g., to extend an operation on images to minibatches of images, or extend the attention mechanism to multiple attention heads). Our notation builds on ideas from many previous papers and software libraries, and we hope their adoption may result in clearer papers and less bug-prone implementations. 
+    First, mathematical notation for tensors with named axes, which removes the burden of keeping track of the order of axes and the purpose of each. It also makes it easy to extend operations on low-order tensors to higher order ones (e.g., to extend an operation on images to minibatches of images, or extend the attention mechanism to multiple attention heads). Our notation builds on ideas from many previous papers and software libraries, and we hope their adoption may result in clearer papers and less bug-prone implementations.
 
     Second, hyperedge replacement graph grammars for factor graphs, or factor graph grammars (FGGs) for short, generate sets of factor graphs and can describe a more general class of models than plate notation, dynamic graphical models, case-factor diagrams, and sum-product networks can. Moreover, inference can be done on FGGs without enumerating all the generated factor graphs. For finite variable domains (but possibly infinite sets of graphs), a generalization of variable elimination to FGGs allows exact and tractable inference in many situations.
 
 * **Speaker:** [Eriq Augustine](https://www.linkedin.com/in/eriq-augustine-77153921/) (UC Santa Cruz)
 
-    **Title:** TBA
+    **Title:** Collective Grounding: Relational Learning Meets Relational Theory
 
 
 ## Accepted papers ##

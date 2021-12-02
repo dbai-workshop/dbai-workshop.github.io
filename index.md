@@ -70,7 +70,7 @@ Relational data represents the vast majority of data present in the enterprise w
 
 * __Compressing (Multidimensional) Learned Bloom Filters.__ Angjela Davitkova, Damjan Gjurovski, Sebastian Michel.
 
-## Tentative program ##
+## Program ##
 
 | Time (ET)  | Program |
 |:-------|:--------|
@@ -79,13 +79,13 @@ Relational data represents the vast majority of data present in the enterprise w
 | 9:45 - 10:30 |  Talk: Paroma Varma |
 | 10:30 - 11:00|  Break |
 | 11:00 - 11:45|   Talk: Arun Kumar |
-| 11:45 - 12:30|   Talk: Olga Papaemmanouil |
-| 12:30 - 13.30|  Lunch |
-| 13:30 - 14:30|  Presentation of contributed papers |
-| 14:30 - 15:00|   Talk: TBA |
+| 11:45 - 12:00|   Talk: Eriq Augustine |
+| 12:00 - 12.15|  Talk: David Chiang |
+| 12:15 - 13:30| Lunch Break |
+| 13:30 - 14:30| Presentation of contributed papers |
+| 14:30 - 15:00|   Talk: Molham Aref |
 | 15:00 - 15:15|  Break |
-| 15:15 - 15:30|   Talk: David Chiang |
-| 15:30 - 15:45|   Talk: Eriq Augustine |
+| 15:15 - 15:45|   Talk: Olga Papaemmanouil |
 | 15:45 - 17:00|  Panel |
 | 17:00 |  Closing Remarks |
 

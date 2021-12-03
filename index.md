@@ -56,6 +56,9 @@ Relational data represents the vast majority of data present in the enterprise w
 
     **Title:** Collective Grounding: Relational Learning Meets Relational Theory
 
+    *Abstract:* Relational learning takes advantage of relational structure in its inputs, e.g., graphs, and its output, e.g., constraints. Building upon that, statistical relational learning (SRL) defines structure using first-order predicate logic and models probabilistic dependencies between outputs. The use of predicate logic provides a natural groundwork for SRL to take advantage of the relational theory used in modern databases. Despite this common basis, SRL frameworks still have many unexplored opportunities to use the methods developed by the database community.
+
+    Grounding, the process of enumerating all valid instantiations of structured tuples in the model, is one of the most computationally expensive components in SRL systems. In this talk, I explore the use of several concepts from database research to accelerate grounding. To improve grounding, we borrow from three well known problems in the database community: query rewriting, query containment, and multi-query optimization. Although not exact matches, each of these problems appear in SRL grounding in a form analogous to its database counterpart. By recognizing the connection to well-researched database techniques, we are able to address these problems in a way that takes advantage of the structure provided by SRL and the existing research provided by the database community. We show by implementing these techniques within an existing SRL system, we can achieve up to a 60% speedup in grounding.
 
 ## Accepted papers ##
 

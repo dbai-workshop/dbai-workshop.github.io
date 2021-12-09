@@ -39,7 +39,7 @@ Relational data represents the vast majority of data present in the enterprise w
 
 * **Speaker:** [Olga Papaemmanouil](https://www.brandeis.edu/facultyguide/person.html?emplid=7f4b0188301218e80167e3786d65cff18e144e5d) (Brandeis University)
 
-    **Title:** TBA
+    **Title:** Towards AI-Native Databases
 
 
 * **Speaker:** [David Chiang](https://www3.nd.edu/~dchiang/) (University of Notre Dame)
@@ -62,16 +62,16 @@ Relational data represents the vast majority of data present in the enterprise w
 
 ## Accepted papers ##
 
-*  [__DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning.__
-    Kai Li, Qi Zhang, Lei Yu, Hong Min.](https://openreview.net/forum?id=RJOWggDLNMv)
+*  __DRL-Clusters: Buffer Management with Clustering based Deep Reinforcement Learning.__
+    Kai Li, Qi Zhang, Lei Yu, Hong Min.
 
-* [__Numerical Reasoning over Legal Contracts via Relational Database.__ Jiani Huang, Ziyang Li, Ilias Fountalis, Mayur Naik.](https://openreview.net/forum?id=a9_4vd4dczF)
+* __Numerical Reasoning over Legal Contracts via Relational Database.__ Jiani Huang, Ziyang Li, Ilias Fountalis, Mayur Naik.
 
-* [__RASL: Relational Algebra in Scikit-Learn Pipelines.__ Kiran Kate, Chirag Sahni, Martin Hirzel, Avraham Shinnar, Thanh Lam Hoang.](https://openreview.net/forum?id=u9ct1gjoDcn)
+* __RASL: Relational Algebra in Scikit-Learn Pipelines.__ Kiran Kate, Chirag Sahni, Martin Hirzel, Avraham Shinnar, Thanh Lam Hoang.
 
-* [__DP-KB: Data Programming with Knowledge Bases Improves Transformer Fine Tuning for Answer Sentence Selection.__ Nicolaas Paul Jedema, Thuy Vu, Thuy Vu, Manish Gupta, Alessandro Moschitti.](https://openreview.net/forum?id=AN4xPK0F0Fs)
+* __DP-KB: Data Programming with Knowledge Bases Improves Transformer Fine Tuning for Answer Sentence Selection.__ Nicolaas Paul Jedema, Thuy Vu, Thuy Vu, Manish Gupta, Alessandro Moschitti.
 
-* [__Compressing (Multidimensional) Learned Bloom Filters.__ Angjela Davitkova, Damjan Gjurovski, Sebastian Michel.](https://openreview.net/forum?id=0BAqBIJAegT)
+* __Compressing (Multidimensional) Learned Bloom Filters.__ Angjela Davitkova, Damjan Gjurovski, Sebastian Michel.
 
 ## Program ##
 

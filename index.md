@@ -39,7 +39,7 @@ Relational data represents the vast majority of data present in the enterprise w
 
 * **Speaker:** [Olga Papaemmanouil](https://www.brandeis.edu/facultyguide/person.html?emplid=7f4b0188301218e80167e3786d65cff18e144e5d) (Brandeis University)
 
-    **Title:** TBA
+    **Title:** Towards AI-Native Databases
 
 
 * **Speaker:** [David Chiang](https://www3.nd.edu/~dchiang/) (University of Notre Dame)

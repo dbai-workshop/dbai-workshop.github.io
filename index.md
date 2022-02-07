@@ -144,6 +144,15 @@ All questions about submissions should be emailed to [this address](mailto:dubai
 - [Kirk Pruhs](https://people.cs.pitt.edu/~kirk/)	(University of Pitsburg)
 - [Zenna Tavares](http://www.zenna.org/) (MIT)
 
+### Program Committee ###
+
+- Matthias Boehm (Graz University of Technology)
+- Sungjin Im (University of California Merced)
+- Benjamin Moseley (Carnegy Mellon University)
+- Supun Nakandala (UCSD)
+- Milos Nikolic (University of Edinburgh)
+- Amir Shaikhha (University of Edinburgh)
+
 ## Links to similar workshops ##
 
 - [KR2ML](https://kr2ml.github.io)
